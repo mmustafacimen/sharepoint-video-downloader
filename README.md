@@ -18,7 +18,8 @@ This Flask project allows you to download videos from SharePoint shared links.
 Installation:
 
 bash ```
-```pip install -r requirements.txt
+pip install -r requirements.txt 
+```
 ```
 Configuration
 
