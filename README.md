@@ -17,8 +17,9 @@ This Flask project allows you to download videos from SharePoint shared links.
 
 Installation:
 
-```bash
-pip install -r requirements.txt
+bash ```
+```pip install -r requirements.txt
+```
 Configuration
 
 Before running the project, you must provide your own SharePoint and Azure credentials. Otherwise, the application will not work.
