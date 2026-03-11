@@ -15,13 +15,13 @@ This Flask project allows you to download videos from SharePoint shared links.
 - Requests
 - BeautifulSoup4
 
-Installation:
+## Installation:
 
-bash ```
+``` bash
 pip install -r requirements.txt 
 ```
-```
-Configuration
+
+## Configuration
 
 Before running the project, you must provide your own SharePoint and Azure credentials. Otherwise, the application will not work.
 
@@ -63,7 +63,7 @@ http://127.0.0.1:5000
 
 Enter the SharePoint link and press the Download button. The file will be automatically redirected and downloaded.
 
-Notes
+## Notes
 
 The project will not work without valid SharePoint and Azure credentials.
 
